@@ -44,7 +44,7 @@
 	
 	<build>
 		<sourceDirectory>src/main/java</sourceDirectory>
-		<finalName>onlinebook</finalName>
+		<finalName>onlinebook2</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
